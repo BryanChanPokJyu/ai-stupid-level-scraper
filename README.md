@@ -1,35 +1,35 @@
 # AI Stupid Level Tracker
 
-> Auto-updated: 2026-05-02 23:27:16 (UTC)
+> Auto-updated: 2026-05-03 07:30:05 (UTC)
 
 Data source: [aistupidlevel.info](https://aistupidlevel.info/)
 
 | Rank | Model | Score | Trend | Provider |
 |------|-------|-------|-------|----------|
-| 1 | claude-opus-4-5-20251101 | 66 | 📈 | anthropic |
-| 2 | claude-opus-4-7 | 65 | ➡️ | anthropic |
+| 1 | claude-opus-4-6 | 69 | 📈 | anthropic |
+| 2 | claude-opus-4-5-20251101 | 68 | ➡️ | anthropic |
 | 3 | claude-sonnet-4-5-20250929 | 64 | ➡️ | anthropic |
-| 4 | deepseek-chat | 61 | ➡️ | deepseek |
-| 5 | gpt-5.4 | 61 | ➡️ | openai |
-| 6 | gpt-5.5 | 61 | ➡️ | openai |
-| 7 | gpt-5.2 | 60 | ➡️ | openai |
-| 8 | gemini-3-pro-preview | 59 | 📉 | google |
-| 9 | kimi-latest | 58 | ➡️ | kimi |
-| 10 | claude-opus-4-6 | 58 | ➡️ | anthropic |
-| 11 | gpt-5.3-codex | 57 | ➡️ | openai |
-| 12 | claude-sonnet-4-20250514 | 55 | ➡️ | anthropic |
-| 13 | claude-sonnet-4-6 | 53 | 📉 | anthropic |
-| 14 | grok-4-0709 | 52 | 📈 | xai |
-| 15 | claude-opus-4-1-20250805 | 47 | 📉 | anthropic |
-| 16 | grok-code-fast-1 | 47 | 📈 | xai |
-| 17 | gemini-2.5-flash | 46 | 📉 | google |
-| 18 | grok-4-latest | 42 | ➡️ | xai |
-| 19 | glm-4.6 | 39 | ➡️ | glm |
-| 20 | kimi-thinking-preview | 39 | ➡️ | kimi |
-| 21 | glm-4.7 | 39 | ➡️ | glm |
-| 22 | kimi-k2-0905-preview | 37 | ➡️ | kimi |
-| 23 | kimi-k2-turbo-preview | 37 | ➡️ | kimi |
-| 24 | deepseek-reasoner | 36 | 📉 | deepseek |
+| 4 | claude-sonnet-4-6 | 62 | ➡️ | anthropic |
+| 5 | claude-opus-4-7 | 62 | ➡️ | anthropic |
+| 6 | claude-sonnet-4-20250514 | 61 | ➡️ | anthropic |
+| 7 | deepseek-chat | 61 | ➡️ | deepseek |
+| 8 | deepseek-reasoner | 60 | 📈 | deepseek |
+| 9 | gpt-5.4 | 60 | ➡️ | openai |
+| 10 | gpt-5.5 | 59 | ➡️ | openai |
+| 11 | kimi-latest | 57 | ➡️ | kimi |
+| 12 | gpt-5.3-codex | 56 | ➡️ | openai |
+| 13 | claude-opus-4-1-20250805 | 54 | 📈 | anthropic |
+| 14 | gemini-3-pro-preview | 53 | 📉 | google |
+| 15 | grok-code-fast-1 | 49 | ➡️ | xai |
+| 16 | grok-4-latest | 47 | 📉 | xai |
+| 17 | grok-4-0709 | 46 | 📈 | xai |
+| 18 | gemini-2.5-flash | 44 | 📉 | google |
+| 19 | kimi-thinking-preview | 41 | ➡️ | kimi |
+| 20 | glm-4.6 | 40 | ➡️ | glm |
+| 21 | glm-4.7 | 40 | ➡️ | glm |
+| 22 | kimi-k2-turbo-preview | 39 | ➡️ | kimi |
+| 23 | kimi-k2-0905-preview | 37 | ➡️ | kimi |
+| 24 | gpt-5.2 | 37 | 📉 | openai |
 
 Total: 24 models
 
